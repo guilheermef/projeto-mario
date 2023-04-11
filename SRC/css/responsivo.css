@@ -1,6 +1,7 @@
 @media (max-width:1200px){
     body {
-        background-color: blueviolet;
+        background-color: rgba(47, 13, 241, 0.842);
+        
     }
     .fundo-video {
         display: none;
