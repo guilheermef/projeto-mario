@@ -1,9 +1,13 @@
 @media (max-width:1200px){
     body {
         background-color: rgba(47, 13, 241, 0.842);
-        
+        øó
     }
     .fundo-video {
         display: none;
+    }
+
+    .container {
+        flex-wrap: wrap;
     }
 }
